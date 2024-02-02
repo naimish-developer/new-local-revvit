@@ -1,0 +1,6 @@
+{
+    "WEB_URL": "https://revvit.vercel.app",
+    "APP_URL": "https://app-revvit.vercel.app",
+    "APP_LOGIN_URL": "https://app-revvit.vercel.app/login",
+    "APP_SIGNUP_URL": "https://app-revvit.vercel.app/signup"
+}
